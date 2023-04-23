@@ -1,5 +1,1 @@
-## Introduction
-
-Quicklance is a platform where freelancers can work on projects alloted by employers on quicklance and work on them with blockchain security.
-Freelancers can earn by working on projects or getting direct tips every month from other people on our platform.
-
+An Innovative platform where freelancers can securely work on projects assigned by employers while leveraging the power of blockchain technology. Our platform revolutionizes the freelance industry by providing a trusted environment for freelancers to earn through project assignments and receive direct tips from other users. With our cutting-edge blockchain security, freelancers can confidently work on projects and earn a fair income in a secure and transparent manner.
